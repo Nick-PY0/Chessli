@@ -62,7 +62,7 @@ Press the Compile or run button (a blue play button) at the top in the toolbar.
 Inno Setup will create an installer for Chessli in the output directory you specify.
 
 ## **🎉 You're Done!**
-You now have a fully functional installer for Chessli. You can share the installer or use it to easily set up Chessli on other systems. The GUI should look like this:
+You now have a fully functional installer for Chessli. If you have any problems you can leave a Issue report on GitHub. You can share the installer or use it to easily set up Chessli on other systems. The GUI should look like this:
 
 
 ![image](https://github.com/user-attachments/assets/76f0dc3b-f3ed-40a0-a4fc-12dfe0ee6574)
