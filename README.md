@@ -63,9 +63,20 @@ Inno Setup will create an installer for Chessli in the output directory you spec
 
 ## **🎉 You're Done!**
 You now have a fully functional installer for Chessli. You can share the installer or use it to easily set up Chessli on other systems. The GUI should look like this:
+
+
 ![image](https://github.com/user-attachments/assets/76f0dc3b-f3ed-40a0-a4fc-12dfe0ee6574)
+
+
+
 ![image](https://github.com/user-attachments/assets/420bdd63-201b-485a-9188-667619efa56a)
+
+
+
 ![image](https://github.com/user-attachments/assets/e9f69691-e490-44d8-9f7d-11de025820e6)
+
+
+
 ![image](https://github.com/user-attachments/assets/dba3d9dd-d37f-42f0-bb58-1c2278591c12)
 
 
