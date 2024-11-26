@@ -1,5 +1,5 @@
 # **Chessli Setup Guide**
-This repository contains all the necessary files and instructions to create an installer for the Chessli application. Follow the steps below to get started!
+This repository contains all the necessary files and instructions to create an installer for the Chessli application. Ofcourse you need to install python so for the best result you should use the installer provided or get it from the official site. Follow the steps below to get started!
 
 ## **📥 Step 1: Get the Repository and Engine Files**
 **Get the Repository**:
@@ -62,4 +62,11 @@ Press the Compile or run button (a blue play button) at the top in the toolbar.
 Inno Setup will create an installer for Chessli in the output directory you specify.
 
 ## **🎉 You're Done!**
-You now have a fully functional installer for Chessli. You can share the installer or use it to easily set up Chessli on other systems.
+You now have a fully functional installer for Chessli. You can share the installer or use it to easily set up Chessli on other systems. The GUI should look like this:
+![image](https://github.com/user-attachments/assets/76f0dc3b-f3ed-40a0-a4fc-12dfe0ee6574)
+![image](https://github.com/user-attachments/assets/420bdd63-201b-485a-9188-667619efa56a)
+![image](https://github.com/user-attachments/assets/e9f69691-e490-44d8-9f7d-11de025820e6)
+![image](https://github.com/user-attachments/assets/dba3d9dd-d37f-42f0-bb58-1c2278591c12)
+
+
+
